@@ -21,5 +21,12 @@ In our paper, we perform a two-step analysis: We create *pixel-level saliency ma
 If you are using code or data from this repo or find our work helpful for your research, please cite our paper:
 
 ```
-Coming Soon
+@InProceedings{Kobs_2021_ICCV,
+    author    = {Kobs, Konstantin and Steininger, Michael and Dulny, Andrzej and Hotho, Andreas},
+    title     = {Do Different Deep Metric Learning Losses Lead to Similar Learned Features?},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {10644-10654}
+}
 ```
